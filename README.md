@@ -6,5 +6,5 @@
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about Software Engineering and Data Analytics.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/prem-arun-rathod)
-- ⚡ Fun fact: I usually spend most of my team reading google cloud forums.
+- ⚡ Fun fact: I usually spend most of my time reading google cloud forums.
 
