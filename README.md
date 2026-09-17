@@ -3,9 +3,9 @@
 
 <p align="center">
   <a href="mailto:prem.rathod.2715@gmail.com">📧 prem.rathod.2715@gmail.com</a> ·
-  <a href="#">LinkedIn</a> ·
-  <a href="#">GitHub</a> ·
-  <a href="#">LeetCode</a> ·
+  <a href="https://www.linkedin.com/in/prem-arun-rathod">LinkedIn</a> ·
+  <a href="https://github.com/PRathod27/">GitHub</a> ·
+  <a href="https://leetcode.com/u/prem_rathod_27/">LeetCode</a> ·
   📍 Pune, India
 </p>
 
